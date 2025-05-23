@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vphuc27/vphuc27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>👋 Hi, I'm Phúc Văn</h1>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me:
+
+- 🎓 I'm currently a 3rd-year student majoring in **Information Technology**.  
+- 🌱 Currently learning more about **Spring Boot** and backend development.  
+- ☁️ I'm also interested in **deployment automation** and **cloud technologies** such as Docker and CI/CD pipelines.
+
+
+### Technologies & Tools
+- **Languages**: Java, Python  
+- **Frameworks**: Spring Boot, Django  
+- **Databases**: MySQL 
+- **Tools**: Docker, Git, Postman, Eclipse, IntelliJ IDEA 
+
+### Languages and Tools:
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: center; align-items: center; margin-top: 15px;">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" />
+  
+  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="55"/>
+  
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55"/>
+  
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="55"/>
+  <img src="https://cdn.simpleicons.org/intellijidea/000000" alt="IntelliJ IDEA" width="55"/>
+</div>
+
+### Contact
+✉️ **Email:** phucvan2704@gmail.com  
+💻 **FaceBook:** [Vo Van Phuc](https://www.facebook.com/phuc.vovan.376695/)
