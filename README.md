@@ -6,7 +6,7 @@
 
 ### About Me:
 
-- 🎓 I'm   currently a 3rd-year student majoring in **Information Technology**.  
+- 🎓 I'm currently a 3rd-year student majoring in **Information Technology**.  
 - 🌱 Currently learning more about **Spring Boot** and backend development.  
 - ☁️ I'm also interested in **deployment automation** and **cloud technologies** such as Docker and CI/CD pipelines.
 
@@ -42,3 +42,4 @@
 ### Contact
 ✉️ **Email:** phucvan2704@gmail.com  
 💻 **FaceBook:** [Vo Van Phuc](https://www.facebook.com/phuc.vovan.376695/)
+
