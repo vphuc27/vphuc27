@@ -12,10 +12,16 @@
 
 
 ### Technologies & Tools
-- **Languages**: Java, Python  
-- **Frameworks**: Spring Boot, Django  
-- **Databases**: MySQL 
-- **Tools**: Docker, Git, Postman, Eclipse, IntelliJ IDEA 
+- **Programming Languages**: Java, Python.
+- **Frameworks & Libraries**: Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, Django.
+- **Web Technologies**: RESTful APIs, JSON, HTTP, Postman.
+- **Databases**: MySQL, PostgreSQL.
+- **ORM & Persistence**: JPA (JPQL, Native Query), Hibernate, JDBС.
+- **Authentication & Authorization**: JWT, OAuth2, Spring Security.
+- **Version Control & CI/CD**: Git, GitHub, GitLab CI, Docker.
+- **Deployment & Environments**: Docker Compose, AWS EC2, Linux (basic)
+- **Other**: Object-Oriented Programming (0OP), Design Patterns (Builder, Singleton, Factory,...), Clean Code, SOLID Principles.
+
 
 ### Languages and Tools:
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 25px; justify-content: center; align-items: center; margin-top: 15px;">
